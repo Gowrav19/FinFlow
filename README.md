@@ -492,8 +492,6 @@ For issues and questions:
 
 <div align="center">
 
-**⭐ If this project helped you, please give it a star!**
 
-Made with ❤️ by Gowrav
 
 </div>
