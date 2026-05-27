@@ -445,8 +445,8 @@ This project is licensed under the MIT License - see [LICENSE](./LICENSE) file f
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: https://github.com/Gowrav19
+- Email: vungowrav19@gmail.com
 
 ---
 
@@ -462,8 +462,8 @@ This project is licensed under the MIT License - see [LICENSE](./LICENSE) file f
 ## 📞 Support
 
 For issues and questions:
-- Open an [Issue](https://github.com/yourusername/finflow/issues)
-- Start a [Discussion](https://github.com/yourusername/finflow/discussions)
+- Open an [Issue](https://github.com/Gowrav19/finflow/issues)
+- Start a [Discussion](https://github.com/Gowrav19/finflow/discussions)
 - Email: support@finflow.com
 
 ---
@@ -494,6 +494,6 @@ For issues and questions:
 
 **⭐ If this project helped you, please give it a star!**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Gowrav
 
 </div>
